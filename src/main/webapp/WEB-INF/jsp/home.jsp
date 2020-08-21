@@ -12,6 +12,5 @@
  <br><br>
     <h1>Book  the Insurance Here....</h1>
     <a href="/flightinsurance"><h2>Click here to Book<h2></a>
-     <h2> Festival </h2>
 </body>
 </html>
