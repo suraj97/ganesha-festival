@@ -10,7 +10,7 @@
 
 <body>
  <br><br>
-    <h1>Book  the Insurance Here....</h1>
+    <h1>Book  the Flight Insurance Here....</h1>
     <a href="/flightinsurance"><h2>Click here to Book<h2></a>
 </body>
 </html>
